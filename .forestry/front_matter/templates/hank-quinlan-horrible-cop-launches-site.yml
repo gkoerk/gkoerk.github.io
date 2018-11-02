@@ -18,3 +18,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- _posts/test-1.md
